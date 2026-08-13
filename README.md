@@ -7,6 +7,7 @@ An AI-powered recruitment workflow designed to automate the initial screening of
 The system collects candidate information, stores the application in Airtable, evaluates the candidate using AI, saves the evaluation, and notifies HR when a candidate achieves a high score.
 
 ## 🔄 Workflow
+![AI Resume Screening Workflow](ai-resume-screening-workflow.png)
 
 Candidate submits application
 ↓
