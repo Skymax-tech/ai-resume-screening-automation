@@ -86,3 +86,9 @@ Specializing in:
 - Airtable
 - AI Integrations
 - Business Process Automation
+
+- ## 📁 Project Structure
+
+ai-resume-screening-automation/
+├── README.md
+└── ai-resume-screening-workflow.png
